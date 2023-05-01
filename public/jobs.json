@@ -1,0 +1,183 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "social_url": "https://i.ibb.co/RyNKm4b/accounts-1.png",
+      "title": "Software Developer",
+      "job_available": 250
+    },
+    {
+      "id": 2,
+      "social_url": "https://i.ibb.co/pnKzV63/business-1.png",
+      "title": "Marketing Manager",
+      "job_available": 160
+    },
+    {
+      "id": 3,
+      "social_url": "https://i.ibb.co/M9d6mcS/chip-1.png",
+      "title": "Customer Support",
+      "job_available": 270
+    },
+    {
+      "id": 4,
+      "social_url": "https://i.ibb.co/R26BpCr/social-media-1.png",
+      "title": "Data Analyst",
+      "job_available": 300
+    }
+  ],
+
+  "jobs": [
+    {
+      "id": "1sdf",
+      "company_name": "ABC Corporation",
+      "logo_url": "https://images.pexels.com/photos/1337386/pexels-photo-1337386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "job_title": "Software Engineer",
+      "job_full": "Full Time",
+      "job_types": "Onside",
+      "location": "New York City",
+      "salary": "$100,000 - $120,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Computer Science or related field",
+      "experience": "3+ years of experience in software development",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@abccorp.com",
+        "address": "123 Main Street, New York, NY 10001"
+      }
+    },
+    {
+      "id": "2gfgdd",
+      "company_name": "XYZ Inc.",
+      "logo_url": "https://i.ibb.co/qj0cXyj/google-1-1-1.png",
+      "job_title": "Marketing Manager",
+      "job_full": "Full Time",
+      "job_types": "Remote",
+      "location": "San Francisco",
+      "salary": "$80,000 - $100,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Marketing or related field",
+      "experience": "5+ years of experience in marketing",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@xyzinc.com",
+        "address": "456 Market Street, San Francisco, CA 94105"
+      }
+    },
+    {
+      "id": "3ljk",
+      "company_name": "Acme Corp.",
+      "logo_url": "https://i.ibb.co/K59xgwg/Group-10021.png",
+      "job_title": "Sales Representative",
+      "job_full": "Full Time",
+      "job_types": "Onside",
+      "location": "Chicago",
+      "salary": "$50,000 - $70,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Business or related field",
+      "experience": "2+ years of experience in sales",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@acmecorp.com",
+        "address": "789 Main Street, Chicago, IL 60601"
+      }
+    },
+    {
+      "id": "4sdfg",
+      "company_name": "Tech Startup",
+      "logo_url": "https://images.pexels.com/photos/1337380/pexels-photo-1337380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "job_title": "Front-end Developer",
+      "job_full": "Full Time",
+      "job_types": "Onside",
+      "location": "Seattle",
+      "salary": "$90,000 - $110,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Computer Science or related field",
+      "experience": "3+ years of experience in front-end development",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@acmecorp.com",
+        "address": "789 Main Street, Chicago, IL 60601"
+      }
+    },
+    {
+      "id": "5yrf",
+      "company_name": "Global Enterprises",
+      "logo_url": "https://images.pexels.com/photos/2235130/pexels-photo-2235130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "job_title": "Human Resources Manager",
+      "job_full": "Full Time",
+      "job_types": "Remote",
+      "location": "Miami",
+      "salary": "$80,000 - $100,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Human Resources or related field",
+      "experience": "5+ years of experience in HR management",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@globalltd.com",
+        "address": "987 Brickell Avenue, Miami, FL 33131"
+      }
+    },
+    {
+      "id": "6oqd",
+      "company_name": "Fashion House",
+      "logo_url": "https://i.ibb.co/vZ38kBV/apple.png",
+      "job_title": "Fashion Designer",
+      "job_full": "Full Time",
+      "job_types": "Onside",
+      "location": "Los Angeles",
+      "salary": "$70,000 - $90,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Fashion Design or related field",
+      "experience": "3+ years of experience in fashion design",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@fashionhouse.com",
+        "address": "1234 Rodeo Drive, Los Angeles, CA 90210"
+      }
+    },
+    {
+      "id": "7bvn",
+      "company_name": "Green Energy Solutions",
+      "logo_url": "https://images.pexels.com/photos/1337383/pexels-photo-1337383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "job_title": "Environmental Scientist",
+      "job_full": "Full Time",
+      "job_types": "Onside",
+      "location": "Boston",
+      "salary": "$60,000 - $80,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Bachelor’s degree in Environmental Science or related field",
+      "experience": "2+ years of experience in environmental science",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@greenenergy.com",
+        "address": "567 Main Street, Boston, MA 02101"
+      }
+    },
+    {
+      "id": "8lag",
+      "company_name": "Healthcare Associates",
+      "logo_url": "https://i.ibb.co/d43F33Q/facebook.png",
+      "job_title": "Registered Nurse",
+      "job_full": "Full Time",
+      "job_types": "Remote",
+      "location": "Dallas",
+      "salary": "$50,000 - $70,000",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "education_requirement": "Associate’s degree in Nursing",
+      "experience": "2+ years of experience in nursing",
+      "contact_info": {
+        "phone": "555-555-5555",
+        "email": "hr@greenenergy.com",
+        "address": "567 Main Street, Boston, MA 02101"
+      }
+    }
+  ]
+}
